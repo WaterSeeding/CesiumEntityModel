@@ -2,8 +2,8 @@
 
 > 在开发 Cesium 过程中，我曾经遇到过根据当前点的位置、方位（朝向）和间距来绘制另一个点？虽然这个问题很简单，但是毕竟是亲身开发经历遇到过的问题，于是记录整理了这篇文章（当作是成长的脚印）。
 >
-> - [查看地址](https://cesium-post-process.vercel.app/)
-> - [仓库地址](https://github.com/WaterSeeding/CesiumPostProcess)
+> - [查看地址](https://cesium-entity-model.vercel.app/)
+> - [仓库地址](https://github.com/WaterSeeding/CesiumEntityModel)
 
 ## 效果
 

@@ -2,8 +2,8 @@
 
 > 在开发 Cesium 过程中，我曾经遇到过垂直抬升、水平移动当前模型的位置？以及如何根据旋转角度旋转模型？解决后，虽然发现这些问题很简单，但是毕竟是亲身开发经历遇到过的问题，于是记录整理了这篇文章（当作是成长的脚印）。
 >
-> - [查看地址](https://cesium-post-process.vercel.app/)
-> - [仓库地址](https://github.com/WaterSeeding/CesiumPostProcess)
+> - [查看地址](https://cesium-entity-model.vercel.app/)
+> - [仓库地址](https://github.com/WaterSeeding/CesiumEntityModel)
 
 ## 效果
 
